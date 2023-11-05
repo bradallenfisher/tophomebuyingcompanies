@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Flipping Georgia Houses",
+	title: "Top Home Buying Companies",
 	url: "https://tophomebuyingcompanies.com",
 	language: "en",
 	description: "A blog about home buying companies",

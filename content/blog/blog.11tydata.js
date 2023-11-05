@@ -3,11 +3,11 @@ module.exports = {
 		"posts"
 	],
 	"layout": "layouts/post.njk",
-	sitename: "Flipping Georgia Houses",
-    sitedesc: "Flipping houses in georgia for profit",
-    siteurl: "https://flippinggeorgiahouses.com",
+	sitename: "Top Home Buying Companies",
+    sitedesc: "Blogs about home buying companies",
+    siteurl: "https://tophomebuyingcompanies.com",
     siteimgsrc: "/img/logo.png",
     siteimgwidth: "500",
     siteimgheight: "500",
-    author: "Bill Gaines"
+    author: "Sean Anderson"
 };
