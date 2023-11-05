@@ -4,7 +4,7 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
-# William "Bill" Gaines{style="text-align:center"}
+# Sean Anderson {style="text-align:center"}
 ![Sean.](/img/me.jpg) {style="text-align:center"}
 
 ## Background
@@ -23,9 +23,9 @@ Sean believes that a house is more than just a structure; it's the foundation fo
 
 A family man at heart, Sean understands the importance of a supportive home environment. He extends this understanding to his work, ensuring that each property he invests in has the potential to become a nurturing space for families to grow. His own experiences as a husband and father have deeply influenced his approach to business, where integrity and reliability are as foundational as the houses he invests in.
 
-Community Engagement
+## Community Engagement
 
-Sean's dedication to Rome goes beyond real estate. He is actively involved in local initiatives that aim to improve the quality of life for all residents. Whether sponsoring youth sports teams, participating in charity events, or supporting small businesses, Sean is always looking for ways to give back to the community that has supported his career.
+Sean's dedication to Rome goes beyond real estate. He is actively involved in local initiatives that aim to improve the quality of life for all Georgia residents. Whether sponsoring youth sports teams like the Rome Elite, participating in charity events, or supporting small businesses, Sean is always looking for ways to give back to the community that has supported his career.
 
 ## Vision for the Future
 
