@@ -5,9 +5,9 @@ featured_img: /img/anticipating-real-estate-trends-in-the-2024-housing-market-da
 alt_text: "Anticipating Real Estate Trends in the 2024 Housing Market Data"
 date: 2023-11-07
 tags:
- - Housing Market
- - Trends
- - Data
+ - housing market
+ - trends
+ - data
 type: post
 meta:
   site:
