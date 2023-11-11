@@ -8,7 +8,7 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 <ul class="post-metadata">
-	<li class="author-img"><img src="/img/me.jpg" alt="Photo of Katie Rossi, author of this blog" width="50" height="50"></li>
+	<li class="author-img"><img src="/img/me.jpg" alt="Photo of Sean Anderson, author of this blog" width="50" height="50"></li>
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 	<li>{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
