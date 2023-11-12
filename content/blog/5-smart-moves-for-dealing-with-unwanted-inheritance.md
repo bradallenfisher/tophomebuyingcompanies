@@ -31,7 +31,7 @@ meta:
 
 ## 5 Smart Moves for Dealing with Unwanted Inheritance
 
-Inheriting a property can often come with a mix of emotions and responsibilities. Whether it's an unexpected windfall or a burdensome asset, knowing your options can be empowering. If you find yourself grappling with an unwanted inheritance, consider these five smart moves.
+Inheriting a property can often come with a mix of emotions and responsibilities. Whether [it's   an  ](https://tophomebuyingcompanies.com/blog/inherited-a-property-you-dont-want-heres-what-to-do)unexpected windfall or a burdensome asset, knowing your options can be empowering. If you find yourself grappling with an unwanted inheritance, consider these five smart moves.
 
 ### Evaluate Your Financial Position and Intentions
 

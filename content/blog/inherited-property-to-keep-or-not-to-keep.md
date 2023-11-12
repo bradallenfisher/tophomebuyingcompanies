@@ -77,7 +77,7 @@ Rome, Georgia, has become a hotspot for real estate investors. Selling your home
   - *Cons*: Maintenance costs, property taxes, potential legal issues.
 
 **Selling the Property:**
-  - *Pros*: Immediate cash, no maintenance or tax responsibilities, closure.
+  - *Pros*: Immediate cash, no maintenance or tax [responsibilities,   closure.](https://tophomebuyingcompanies.com/blog/legal-tips-for-handling-an-unwanted-property-inheritance)
   - *Cons*: May sell below market value, loss of potential future appreciation.
 
 ### Companies That Buy Houses: Your Fast Track to Selling 

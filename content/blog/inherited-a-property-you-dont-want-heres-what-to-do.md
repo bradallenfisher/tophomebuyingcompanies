@@ -46,7 +46,7 @@ When the priority is to **sell your house fast**, turning to a **cash home buyer
 
 A more traditional route is to enlist the services of a **real estate agent**. This option is suitable if you're aiming for a potentially higher selling price and don't mind waiting for the right buyer.
 
-1. Find a reputable agent with a track record in Rome, GA.
+1. Find a[  reputable](https://tophomebuyingcompanies.com/blog/estate-planning-preventing-unwanted-property-inheritance) agent with a track record in Rome, GA.
 2. Understand the local market to set a competitive price.
 3. Prepare your home for showings and open houses.
 
