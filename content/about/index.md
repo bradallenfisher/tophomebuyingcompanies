@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/posts_body.njk
 eleventyNavigation:
   key: About Me
   order: 3

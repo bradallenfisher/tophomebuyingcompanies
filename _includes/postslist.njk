@@ -1,10 +1,17 @@
-{%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
-<ol reversed class="postlist">
+<div class="grid-container">
 {% for post in postslist | reverse %}
-	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<ul><li>{{ post.data.description }}</li></ul>
+<div class="grid-item">
+	<!--<div class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}"> -->
+		<img src="{{ post.data.featured_img }}" alt="{{ post.data.alt_text }}" width="400" height="400" />
+		<div class="posts_date">
+		<time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate }}</time>
+		</div>
+		<a href="{{ post.url }}" class="postlist-link">
+			{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		<div class="desc">
+          {{ post.data.description }}
+		</div>
 		{# <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time> #}
-	</li>
+</div>
 {% endfor %}
-</ol>
+</div>

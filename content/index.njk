@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 20
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>{{ latestPostsCount }} Posts {% if latestPostsCount != 1 %} on this site.{% endif %}</h1>
+<div class="hero">
+  <h1>Top Home Buying Companies</h1>
+</div>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -17,12 +17,3 @@ numberOfLatestPostsToShow: 20
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
-
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
