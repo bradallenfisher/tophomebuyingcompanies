@@ -376,3 +376,32 @@ p.big-code {
 .posts_date {
 	margin-bottom: 3px;
 }
+label {
+	padding: 20px 0;
+	display: block;
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+input, textarea {
+	display: block;
+    width: 100%;
+    padding: 20px;
+	border-radius: .4em;
+	border:1px solid #f1f1f1;
+}
+button {
+	display: block;
+	font-weight: 900;
+	font-size: 1rem;
+	color: white;
+    width: inherit;
+    padding: 20px 50px;
+    border: none;
+    margin: 20px 0;
+    border-radius: .4em;
+    cursor: pointer;
+	background-color: var(--text-color-link);
+}
+button:hover {
+	background-color: var(--text-dark-link);
+}
